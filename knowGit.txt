@@ -1,7 +1,0 @@
-git rm cached-删除暂存区文件命令
-git reflog--查看本地库的记录命令
-git reset --hard 索引值--回到某个版本的命令
-git branch -v 查看所有分支命令
-git branch 分支名 创建分支命令
-git checkout 分支名 切换分支命令
-git merch 合并的分支
